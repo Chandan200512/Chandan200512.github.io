@@ -1,2 +1,2 @@
-# Chandan200512.github.io
+# my portfolio website.
 My personal portfolio website with my projects and contact info.
